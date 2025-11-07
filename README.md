@@ -31,3 +31,7 @@ once it’s live. It also **opens the portal in your default browser** the momen
 3. Run this once to install the only dependency:
    ```bash
    npm install node-notifier
+4. Type this in your terminal to run the script
+```bash
+   node nysc-alert.js
+
