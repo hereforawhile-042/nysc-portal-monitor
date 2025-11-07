@@ -2,7 +2,7 @@ const https = require("https");
 const notifier = require("node-notifier");
 const { exec } = require("child_process");
 
-const url = "https://portal.nysc.org.ng/nysc4/";
+const url = "https://portal.nysc.org.ng/nysc2/";
 const interval = 60 * 1000;
 let notified = false;
 
